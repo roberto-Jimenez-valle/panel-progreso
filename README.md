@@ -1,0 +1,3 @@
+# panel
+
+Página estática cifrada.
